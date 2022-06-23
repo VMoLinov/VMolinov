@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 my name is Vadim
+
+Android developer
+
+Skills: Android / Java / Kotlin / Dart / Flutter
 
 <!--
 **VMoLinov/VMolinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
