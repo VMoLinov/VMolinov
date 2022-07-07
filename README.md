@@ -1,5 +1,7 @@
 <img align="center" alt="Coding" src="header.png">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VMolinov&langs_count=4)
+
 Skills: Android / Java / Kotlin / Dart / Flutter
 
 <!--
