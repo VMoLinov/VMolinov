@@ -1,6 +1,4 @@
-### Hi there 👋 my name is Vadim
-
-Android developer
+<img align="center" alt="Coding" src="header.png">
 
 Skills: Android / Java / Kotlin / Dart / Flutter
 
